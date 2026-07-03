@@ -1,6 +1,9 @@
 # Mosques Management System
 
 A desktop application developed using Python Tkinter and SQLite.
+## Interface
+
+![Interface](Interface.png)
 
 ## Features
 
